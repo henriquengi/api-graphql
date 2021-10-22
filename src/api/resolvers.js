@@ -10,7 +10,7 @@ module.exports = {
         }
     },
 
-    Mutations: {
+    Mutation: {
         async createUser(_, { input }) {
 
             const result = await db('users').insert({

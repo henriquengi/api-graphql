@@ -22,7 +22,7 @@ const typeDefs = `
         ${usersAttribs}
     }
 
-    type Mutations {
+    type Mutation {
         createUser(input: UserInput): User
     }
 `
