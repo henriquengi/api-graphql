@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "express": "^4.17.1",
-    "express-graphql": "^0.12.0"
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.6.1"
   },
   "devDependencies": {
     "git-commit-msg-linter": "^3.2.8"
